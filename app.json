@@ -1,5 +1,5 @@
 ﻿{
-    "name": "v2ray2.0",
+    "name": "v2.0",
     "description": "在Heroku上部署v2ray2.0",
     "keywords": ["v2ray2.0"],
     "env": {
